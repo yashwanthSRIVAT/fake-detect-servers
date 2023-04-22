@@ -6,7 +6,7 @@ Currently, only the Flask implementation is added. The reason for implementing w
 # Routes to build in the backend:
 <ol>
 <li>
-/predict: <i>(implemented)</i><br /> 
+<code>/predict</code>: <i>(implemented)</i><br /> 
 <ol>
 <li>
 Page that takes inputs from user, predicts genuineness using the pre-trained model, and returns the prediction back to the user.
@@ -16,6 +16,6 @@ Page that takes inputs from user, predicts genuineness using the pre-trained mod
 </li>
 </ol>
 </li>
-<li>/dataset:<br /> Page that displays the training dataset.</li>
-<li>/graph:<br /> Page that displays the training-accuracy & loss graph to the user.</li>
+<li><code>/dataset</code>:<br /> Page that displays the training dataset.</li>
+<li><code>/graph</code>:<br /> Page that displays the training-accuracy & loss graph to the user.</li>
 </ol>
