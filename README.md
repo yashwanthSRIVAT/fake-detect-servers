@@ -15,7 +15,7 @@ Currently, only the Flask implementation is added. The reason for implementing w
 Page that takes inputs from user, predicts genuineness using the pre-trained model, and returns the prediction back to the user.
 </li>
 <li>
-<strong>(Feature Addition): Update this page to accept not only the 8 account details individually, but also a test.csv dataset to predict a bunch of test-records at the same time.</strong>
+<strong>(Feature Addition): Update this page to accept not only the 8 account details individually, but also a flag (option). When this option is set by the front-end app, the model should run a `test.csv` test-set and return it's results.</strong>
 </li>
 </ol>
 </li>
