@@ -5,6 +5,7 @@ Currently, only the Flask implementation is added. The reason for implementing w
 
 >Flask is developed with <b>Python 3.11.3</b>. The code's requirements are present in `flask-server/requirements.txt`.
 
+[Click here to see the front-end code-base of this project on Github.](https://github.com/yashwanthSRIVAT/fake-detect-front-end)
 # Routes to build in the backend:
 <ol>
 <li>
